@@ -2,7 +2,7 @@
 date: 2026-06-26
 ---
 
-[AOS EN Test 3.0](https://aos-seisake.github.io/entest/) は**警備員向けの英語試験サイト**です。
+[AOS EN Test 3.0](https://aos-seisaku.github.io/entest/) は**警備員向けの英語試験サイト**です。
 
 **内容**：リスニング+スピーキング（二問）・リーディング（三問）
 
